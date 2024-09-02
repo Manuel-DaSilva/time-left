@@ -70,23 +70,23 @@
 		data-v0-t="card"
 	>
 		<div class="flex flex-col items-center gap-4">
-			<h2 class="text-2xl font-bold">Until December 15, 2024</h2>
+			<h2 class="text-2xl font-bold">Hasta el 15 de diciembre de 2024</h2>
 			<div class="grid w-full grid-cols-2 gap-4">
 				<div class="flex flex-col items-center gap-1 rounded-md bg-muted p-4">
 					<span class="text-4xl font-bold">{daysLeft}</span>
-					<span class="text-sm text-muted-foreground">Days</span>
+					<span class="text-sm text-muted-foreground">Días</span>
 				</div>
 				<div class="flex flex-col items-center gap-1 rounded-md bg-muted p-4">
 					<span class="text-4xl font-bold">{weekendsLeft}</span>
-					<span class="text-sm text-muted-foreground">Weekends</span>
+					<span class="text-sm text-muted-foreground">Fines de semana</span>
 				</div>
 				<div class="flex flex-col items-center gap-1 rounded-md bg-muted p-4">
 					<span class="text-4xl font-bold">{workdaysLeft}</span>
-					<span class="text-sm text-muted-foreground">Work Days</span>
+					<span class="text-sm text-muted-foreground">Días laborales</span>
 				</div>
 				<div class="flex flex-col items-center gap-1 rounded-md bg-muted p-4">
 					<span class="text-4xl font-bold">{weeksLeft}</span>
-					<span class="text-sm text-muted-foreground">Weeks</span>
+					<span class="text-sm text-muted-foreground">Semanas</span>
 				</div>
 			</div>
 			<p class="text-xs">{actualTimeLeft}</p>
