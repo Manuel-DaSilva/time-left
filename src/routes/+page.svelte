@@ -77,7 +77,7 @@
 					<span class="text-sm text-muted-foreground">Días</span>
 				</div>
 				<div class="flex flex-col items-center gap-1 rounded-md bg-muted p-4">
-					<span class="text-4xl font-bold">{weekendsLeft}</span>
+					<span class="text-4xl font-bold">{weeksLeft}</span>
 					<span class="text-sm text-muted-foreground">Fines de semana</span>
 				</div>
 				<div class="flex flex-col items-center gap-1 rounded-md bg-muted p-4">
